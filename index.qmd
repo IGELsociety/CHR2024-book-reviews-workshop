@@ -1,18 +1,12 @@
 ---
-title: "Larger-Than-Memory Data Workflows with Apache Arrow"
+title: "Computational Analysis of Multilingual Book Reviews. Workshop hosted at CHR 2024."
 ---
 
 ## Workshop Description
 
-As datasets become larger and more complex, the boundaries between data engineering and data science are becoming blurred. Data analysis pipelines with larger-than-memory data are becoming commonplace, creating a gap that needs to be bridged: between engineering tools designed to work with very large datasets on the one hand, and data science tools that provide the analysis capabilities used in data workflows on the other. One way to build this bridge is with [Apache Arrow](https://arrow.apache.org/), a multi-language toolbox for working with larger-than-memory tabular data. Arrow is designed to improve performance and efficiency, and places emphasis on standardization and interoperability among workflow components, programming languages, and systems. The **arrow** package provides a mature R interface to Apache Arrow, making it an appealing solution for data scientists working with large data in R.
+add info
 
-::: {.column-margin}
-![](img/arrow-hex-dark.png)
-:::
-
-In this tutorial you will learn how to use the **arrow** R package to create seamless engineering-to-analysis data pipelines. You’ll learn how to use interoperable data file formats like Parquet or Feather for efficient storage and data access. You’ll learn how to exercise fine control over data types to avoid common data pipeline problems. During the tutorial you’ll be processing larger-than-memory files and multi-file datasets with familiar **dplyr** syntax, and working with data in cloud storage. The tutorial doesn’t assume any previous experience with Apache Arrow: instead, it will provide a foundation for using **arrow**, giving you access to a powerful suite of tools for analyzing larger-than-memory datasets in R.
-
-GitHub Repository: [github.com/djnavarro/arrow-user2022](https://github.com/djnavarro/arrow-user2022)
+GitHub Repository: [IGELsociety/CHR2024-book-reviews-workshop](https://github.com/IGELsociety/CHR2024-book-reviews-workshop)
 
 ## Instructors 
 
@@ -30,40 +24,27 @@ GitHub Repository: [github.com/djnavarro/arrow-user2022](https://github.com/djna
 
 ## Quick Start Guide
 
-```{r quickinstall, eval=FALSE}
-# download a copy of this repository
-usethis::create_from_github(
-  repo_spec = "djnavarro/arrow-user2022", 
-  destdir="<your chosen path>"
-)
-
-# install the package dependencies
-remotes::install_deps()
-
-# manually download and unzip the "tiny taxi" data
-download.file(
-  url = "https://github.com/djnavarro/arrow-user2022/releases/download/v0.1/nyc-taxi-tiny.zip",
-  destfile = here::here("data/nyc-taxi-tiny.zip")
-)
-unzip(
-  zipfile = here::here("data/nyc-taxi-tiny.zip"), 
-  exdir = here::here("data")
-)
-```
+add info about the setup (Google Colab)
 
 ## When/Where
 
 ```{r}
+library(lubridate)
 workshop_time <- function(tz) {
-  start <- lubridate::ymd_hms("2022-06-20 14:00:00", tz = "America/Chicago")
-  close <- lubridate::ymd_hms("2022-06-20 17:30:00", tz = "America/Chicago")
-  cat("For time zone:", tz, "\n")
+  start <- lubridate::ymd_hms("2024-12-03 09:00:00", tz = "Europe/Copenhagen")
+  close <- lubridate::ymd_hms("2024-12-03 17:00:00", tz = "Europe/Copenhagen")
+  cat("Time zone:", tz, "\n")
   cat("  start time:", lubridate::with_tz(start, tz) |> as.character(), "\n")
   cat("  close time:", lubridate::with_tz(close, tz) |> as.character(), "\n")
 }
 
-workshop_time("America/Vancouver")
-workshop_time("America/Chicago")
-workshop_time("Africa/Harare")
-workshop_time("Australia/Sydney")
+workshop_time("Europe/Copenhagen")
+# workshop_time("US/Pacific")
+# workshop_time("US/Eastern")
+# workshop_time("Australia/Sydney")
 ```
+
+CHR 2024
+FIFTH CONFERENCE ON COMPUTATIONAL HUMANITIES RESEARCH
+
+Aarhus University, Denmark

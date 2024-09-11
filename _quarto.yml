@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "Apache Arrow in R"
-  site-url: https://arrow-user2022.netlify.app
-  repo-url: https://github.com/djnavarro/arrow-user2022
+  title: "Computational Analysis of Multilingual Book Reviews"
+  site-url: ""
+  repo-url: https://github.com/IGELsociety/CHR2024-book-reviews-workshop
   open-graph: true
   twitter-card:
-    creator: "@djnavarro"
+    creator: ""
     card-style: summary_large_image
-    image: "http://arrow-user2022.netlify.app/img/social-media-image.png"
+    image: ""
   navbar:
     background: primary
     left:
@@ -19,14 +19,6 @@ website:
         menu:
           - href: packages-and-data.html
             text: "0: Packages and Data"
-          - href: hello-arrow.html
-            text: "1: Hello Arrow"
-          - href: data-wrangling.html
-            text: "2: Data Wrangling"
-          - href: data-storage.html
-            text: "3: Data Storage"
-          - href: advanced.html
-            text: "4: Advanced Arrow"
       - href: slides.html
         text: Slides
 
@@ -37,5 +29,6 @@ format:
     toc: true
     include-after-body: plausible.html
 
-
+execute:
+  freeze: auto
 
