@@ -1,5 +1,5 @@
 ---
-title: "Computational Analysis of Multilingual Book Reviews. Workshop hosted at CHR 2024."
+title: "Computational Analysis of Multilingual Book Reviews"
 ---
 
 ## Workshop Description
@@ -19,7 +19,7 @@ The workshop is particularly addressed at early career researchers who want to h
 ### Background
 
 Reading books and communicating about them is one of the ways people have long been reflecting on life and values, playing with alternative ideas, regulating emotions, and enjoying aesthetic pleasure. They also relate to each other through these practices: intellectually, communicatively and emotionally. Today, book reception practices have become digital at an unprecedented scale: millions of readers interact with each other on digital reviewing platforms [^1].
-While collections of printed books have been developed and maintained for centuries, archives of ordinary readers’ responses to books have rarely been preserved. Due to a lack of empirical and historical research evidence, many aspects of readership and reception history remained theoretical and/or anecdotal until the 21st century. In the last two decades, researchers have been uncovering historical archives [^2] and developing contemporary book reception corpora in support of empirical investigations in reading behavior, reader response, reception, literary appreciation, etc. [^3, ^4, ^5]. User-generated book reviews on social reading/reviewing websites such as Amazon and Goodreads meet this need, and have opened up unprecedented research possibilities to study what people feel and think about the books they read and how they share their reading experiences with others. This information available online offers several opportunities: readers can more easily socialize with people having similar interests, libraries can make better informed decisions when providing services to their patrons, publishers can get insight about their readership and tailor their editorial and marketing strategies, booksellers can develop more accurate recommender systems, and new business models have been created by platforms that offer successful content to media industries like Netflix.
+While collections of printed books have been developed and maintained for centuries, archives of ordinary readers’ responses to books have rarely been preserved. Due to a lack of empirical and historical research evidence, many aspects of readership and reception history remained theoretical and/or anecdotal until the 21st century. In the last two decades, researchers have been uncovering historical archives [^2] and developing contemporary book reception corpora in support of empirical investigations in reading behavior, reader response, reception, literary appreciation, etc. [^3] [^4] [^5]. User-generated book reviews on social reading/reviewing websites such as Amazon and Goodreads meet this need, and have opened up unprecedented research possibilities to study what people feel and think about the books they read and how they share their reading experiences with others. This information available online offers several opportunities: readers can more easily socialize with people having similar interests, libraries can make better informed decisions when providing services to their patrons, publishers can get insight about their readership and tailor their editorial and marketing strategies, booksellers can develop more accurate recommender systems, and new business models have been created by platforms that offer successful content to media industries like Netflix.
 During this workshop, on the one hand, we will discuss theoretical approaches to model book reviewing and book reception across different global and cultural spheres; on the other hand, we illuminate which methodologies need to be developed in between ‘close reading’ of individual reviews and computational analysis of thousands of reviews.
 
 [^1]: S. Rebora, P. Boot, F. Pianzola, B. Gasser, J. B. Herrmann, M. Kraxenberger, M. Kuijpers, G. Lauer, P. Lendvai, T. C. Messerli, P. Sorrentino, Digital Humanities and Digital Social Reading, *Digital Scholarship in the Humanities* 36 (2021) ii230–ii250. doi:https://doi.org/10.1093/llc/fqab020.
@@ -32,7 +32,7 @@ GitHub Repository: [IGELsociety/CHR2024-book-reviews-workshop](https://github.co
 
 ## Instructors 
 
-- [Federico Pianzola](https://federicopianzola.me/) - is Assistant Professor of Computational Humanities at the University of Groningen (Netherlands), where he coordinates the Master’s in Digital Humanities. He is the Principal Investigator of the ERC Starting Grant project [GOLEM (Graphs and Ontologies for Literary Evolution Models)](https://golemlab.eu). He is the author of the book [*Digital Social Reading: Sharing Fiction in the 21st Century*](https://mitpressbookstore.mit.edu/book/9780262550918) (MIT Press, 2024). 
+- [**Federico Pianzola**](https://federicopianzola.me/) - is Assistant Professor of Computational Humanities at the University of Groningen (Netherlands), where he coordinates the Master’s in Digital Humanities. He is the Principal Investigator of the ERC Starting Grant project [GOLEM (Graphs and Ontologies for Literary Evolution Models)](https://golemlab.eu). He is the author of the book [*Digital Social Reading: Sharing Fiction in the 21st Century*](https://mitpressbookstore.mit.edu/book/9780262550918) (MIT Press, 2024). 
 
 
 ## Tutorial Content
@@ -50,6 +50,8 @@ add info about the setup (Google Colab)
 ## When/Where
 
 ```{r}
+#| echo: false
+
 library(lubridate)
 workshop_time <- function(tz) {
   start <- lubridate::ymd_hms("2024-12-03 09:00:00", tz = "Europe/Copenhagen")
