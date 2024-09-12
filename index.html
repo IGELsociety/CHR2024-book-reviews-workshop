@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Computational Analysis of Multilingual Book Reviews. Workshop hosted at CHR 2024. – Computational Analysis of Multilingual Book Reviews</title>
+<title>Computational Analysis of Multilingual Book Reviews</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,40 +19,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -103,10 +69,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Computational Analysis of Multilingual Book Reviews. Workshop hosted at CHR 2024. – Computational Analysis of Multilingual Book Reviews">
+<meta property="og:title" content="Computational Analysis of Multilingual Book Reviews">
 <meta property="og:description" content="">
 <meta property="og:site_name" content="Computational Analysis of Multilingual Book Reviews">
-<meta name="twitter:title" content="Computational Analysis of Multilingual Book Reviews. Workshop hosted at CHR 2024. – Computational Analysis of Multilingual Book Reviews">
+<meta name="twitter:title" content="Computational Analysis of Multilingual Book Reviews">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="">
 <meta name="twitter:creator" content="">
@@ -183,7 +149,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Computational Analysis of Multilingual Book Reviews. Workshop hosted at CHR 2024.</h1>
+<h1 class="title">Computational Analysis of Multilingual Book Reviews</h1>
 </div>
 
 
@@ -216,14 +182,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="background" class="level3">
 <h3 class="anchored" data-anchor-id="background">Background</h3>
-<p>Reading books and communicating about them is one of the ways people have long been reflecting on life and values, playing with alternative ideas, regulating emotions, and enjoying aesthetic pleasure. They also relate to each other through these practices: intellectually, communicatively and emotionally. Today, book reception practices have become digital at an unprecedented scale: millions of readers interact with each other on digital reviewing platforms <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. While collections of printed books have been developed and maintained for centuries, archives of ordinary readers’ responses to books have rarely been preserved. Due to a lack of empirical and historical research evidence, many aspects of readership and reception history remained theoretical and/or anecdotal until the 21st century. In the last two decades, researchers have been uncovering historical archives <a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> and developing contemporary book reception corpora in support of empirical investigations in reading behavior, reader response, reception, literary appreciation, etc. [^3, ^4, ^5]. User-generated book reviews on social reading/reviewing websites such as Amazon and Goodreads meet this need, and have opened up unprecedented research possibilities to study what people feel and think about the books they read and how they share their reading experiences with others. This information available online offers several opportunities: readers can more easily socialize with people having similar interests, libraries can make better informed decisions when providing services to their patrons, publishers can get insight about their readership and tailor their editorial and marketing strategies, booksellers can develop more accurate recommender systems, and new business models have been created by platforms that offer successful content to media industries like Netflix. During this workshop, on the one hand, we will discuss theoretical approaches to model book reviewing and book reception across different global and cultural spheres; on the other hand, we illuminate which methodologies need to be developed in between ‘close reading’ of individual reviews and computational analysis of thousands of reviews.</p>
+<p>Reading books and communicating about them is one of the ways people have long been reflecting on life and values, playing with alternative ideas, regulating emotions, and enjoying aesthetic pleasure. They also relate to each other through these practices: intellectually, communicatively and emotionally. Today, book reception practices have become digital at an unprecedented scale: millions of readers interact with each other on digital reviewing platforms <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. While collections of printed books have been developed and maintained for centuries, archives of ordinary readers’ responses to books have rarely been preserved. Due to a lack of empirical and historical research evidence, many aspects of readership and reception history remained theoretical and/or anecdotal until the 21st century. In the last two decades, researchers have been uncovering historical archives <a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> and developing contemporary book reception corpora in support of empirical investigations in reading behavior, reader response, reception, literary appreciation, etc. <a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> <a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a> <a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>. User-generated book reviews on social reading/reviewing websites such as Amazon and Goodreads meet this need, and have opened up unprecedented research possibilities to study what people feel and think about the books they read and how they share their reading experiences with others. This information available online offers several opportunities: readers can more easily socialize with people having similar interests, libraries can make better informed decisions when providing services to their patrons, publishers can get insight about their readership and tailor their editorial and marketing strategies, booksellers can develop more accurate recommender systems, and new business models have been created by platforms that offer successful content to media industries like Netflix. During this workshop, on the one hand, we will discuss theoretical approaches to model book reviewing and book reception across different global and cultural spheres; on the other hand, we illuminate which methodologies need to be developed in between ‘close reading’ of individual reviews and computational analysis of thousands of reviews.</p>
 <p>GitHub Repository: <a href="https://github.com/IGELsociety/CHR2024-book-reviews-workshop">IGELsociety/CHR2024-book-reviews-workshop</a></p>
 </section>
 </section>
 <section id="instructors" class="level2">
 <h2 class="anchored" data-anchor-id="instructors">Instructors</h2>
 <ul>
-<li><a href="https://federicopianzola.me/">Federico Pianzola</a> - is Assistant Professor of Computational Humanities at the University of Groningen (Netherlands), where he coordinates the Master’s in Digital Humanities. He is the Principal Investigator of the ERC Starting Grant project <a href="https://golemlab.eu">GOLEM (Graphs and Ontologies for Literary Evolution Models)</a>. He is the author of the book <a href="https://mitpressbookstore.mit.edu/book/9780262550918"><em>Digital Social Reading: Sharing Fiction in the 21st Century</em></a> (MIT Press, 2024).</li>
+<li><a href="https://federicopianzola.me/"><strong>Federico Pianzola</strong></a> - is Assistant Professor of Computational Humanities at the University of Groningen (Netherlands), where he coordinates the Master’s in Digital Humanities. He is the Principal Investigator of the ERC Starting Grant project <a href="https://golemlab.eu">GOLEM (Graphs and Ontologies for Literary Evolution Models)</a>. He is the author of the book <a href="https://mitpressbookstore.mit.edu/book/9780262550918"><em>Digital Social Reading: Sharing Fiction in the 21st Century</em></a> (MIT Press, 2024).</li>
 </ul>
 </section>
 <section id="tutorial-content" class="level2">
@@ -243,7 +209,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="whenwhere" class="level2">
 <h2 class="anchored" data-anchor-id="whenwhere">When/Where</h2>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(lubridate)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>
 Attaching package: 'lubridate'</code></pre>
@@ -253,23 +218,11 @@ Attaching package: 'lubridate'</code></pre>
 
     date, intersect, setdiff, union</code></pre>
 </div>
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>workshop_time <span class="ot">&lt;-</span> <span class="cf">function</span>(tz) {</span>
-<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>  start <span class="ot">&lt;-</span> lubridate<span class="sc">::</span><span class="fu">ymd_hms</span>(<span class="st">"2024-12-03 09:00:00"</span>, <span class="at">tz =</span> <span class="st">"Europe/Copenhagen"</span>)</span>
-<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>  close <span class="ot">&lt;-</span> lubridate<span class="sc">::</span><span class="fu">ymd_hms</span>(<span class="st">"2024-12-03 17:00:00"</span>, <span class="at">tz =</span> <span class="st">"Europe/Copenhagen"</span>)</span>
-<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">cat</span>(<span class="st">"Time zone:"</span>, tz, <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>)</span>
-<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">cat</span>(<span class="st">"  start time:"</span>, lubridate<span class="sc">::</span><span class="fu">with_tz</span>(start, tz) <span class="sc">|&gt;</span> <span class="fu">as.character</span>(), <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>)</span>
-<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">cat</span>(<span class="st">"  close time:"</span>, lubridate<span class="sc">::</span><span class="fu">with_tz</span>(close, tz) <span class="sc">|&gt;</span> <span class="fu">as.character</span>(), <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>)</span>
-<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>}</span>
-<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a><span class="fu">workshop_time</span>(<span class="st">"Europe/Copenhagen"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>Time zone: Europe/Copenhagen 
   start time: 2024-12-03 09:00:00 
   close time: 2024-12-03 17:00:00 </code></pre>
 </div>
-<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># workshop_time("US/Pacific")</span></span>
-<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="co"># workshop_time("US/Eastern")</span></span>
-<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="co"># workshop_time("Australia/Sydney")</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p>CHR 2024 FIFTH CONFERENCE ON COMPUTATIONAL HUMANITIES RESEARCH</p>
 <p>Aarhus University, Denmark</p>
@@ -283,9 +236,11 @@ Attaching package: 'lubridate'</code></pre>
 <ol>
 <li id="fn1"><p>S. Rebora, P. Boot, F. Pianzola, B. Gasser, J. B. Herrmann, M. Kraxenberger, M. Kuijpers, G. Lauer, P. Lendvai, T. C. Messerli, P. Sorrentino, Digital Humanities and Digital Social Reading, <em>Digital Scholarship in the Humanities</em> 36 (2021) ii230–ii250. doi:https://doi.org/10.1093/llc/fqab020.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn2"><p>J. Kotin, R. S. Koeser, C. Adair, S. Alagappan, P. Allen, J. Bauer, O. J. Browne, N. Budak, H. Calver, J. Y. Chow, I. Davis, G. Doroudian, C. Engel, V. Gautreau, A. Gjaja, E. Green, I. Hart, B. Hicks, M. E. Joelson, C. Kelly, S. Krolewski, X. Li, E. Maag, E. Macksey, C. Mahoney, F. Mancino, J. D. McCarthy, M. Naydan, S. Root, I. Ruehl, S. Thode, K. Vandermel, C. VanSant, C. E. Wulfman, Shakespeare and Company Project Dataset: Lending Library Members, Books, Events, 2021. URL: https://dataspace.princeton.edu/handle/88435/dsp01fx719q532. doi:10.34770/39sq-bm51, accepted: 2021-01-29T21:13:48Z.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>P. Boot, The desirability of a corpus of online book responses, in: <em>Proceedings of the Workshop on Computational Linguistics for Literature</em>, 2013, p.&nbsp;32–40.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>L. Dai, <em>From history of the book to history of reading: theories and methods for historical studies of reading</em>, Xinxin, 2017.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>J. F. English, A Future for Empirical Reader Studies, 2021. URL: https://culturalanalytics. org/post/1208-a-future-for-empirical-reader-studies.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
-<script defer="" data-domain="arrow-user2022.netlify.app" src="https://plausible.io/js/plausible.js"></script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
