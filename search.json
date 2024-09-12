@@ -39,7 +39,7 @@
     "href": "index.html#whenwhere",
     "title": "Computational Analysis of Multilingual Book Reviews",
     "section": "When/Where",
-    "text": "When/Where\n\n\n\nAttaching package: 'lubridate'\n\n\nThe following objects are masked from 'package:base':\n\n    date, intersect, setdiff, union\n\n\nTime zone: Europe/Copenhagen \n  start time: 2024-12-03 09:00:00 \n  close time: 2024-12-03 17:00:00 \n\n\nCHR 2024 FIFTH CONFERENCE ON COMPUTATIONAL HUMANITIES RESEARCH\nAarhus University, Denmark"
+    "text": "When/Where\nTime zone: Europe/Copenhagen\n2024-12-03 09:00 - 17:00\nCHR 2024\nFIFTH CONFERENCE ON COMPUTATIONAL HUMANITIES RESEARCH\nAarhus University, Denmark"
   },
   {
     "objectID": "index.html#footnotes",
