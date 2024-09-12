@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://IGELsociety.github.io/CHR2024-book-reviews-workshop/sitemap.xml
