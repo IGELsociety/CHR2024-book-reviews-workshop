@@ -49,25 +49,12 @@ add info about the setup (Google Colab)
 
 ## When/Where
 
-```{r}
-#| echo: false
+Time zone: Europe/Copenhagen 
 
-library(lubridate)
-workshop_time <- function(tz) {
-  start <- lubridate::ymd_hms("2024-12-03 09:00:00", tz = "Europe/Copenhagen")
-  close <- lubridate::ymd_hms("2024-12-03 17:00:00", tz = "Europe/Copenhagen")
-  cat("Time zone:", tz, "\n")
-  cat("  start time:", lubridate::with_tz(start, tz) |> as.character(), "\n")
-  cat("  close time:", lubridate::with_tz(close, tz) |> as.character(), "\n")
-}
-
-workshop_time("Europe/Copenhagen")
-# workshop_time("US/Pacific")
-# workshop_time("US/Eastern")
-# workshop_time("Australia/Sydney")
-```
-
+  2024-12-03 09:00 - 17:00
+  
 CHR 2024
+
 FIFTH CONFERENCE ON COMPUTATIONAL HUMANITIES RESEARCH
 
 Aarhus University, Denmark
