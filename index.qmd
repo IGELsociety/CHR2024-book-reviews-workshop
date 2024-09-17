@@ -39,7 +39,7 @@ GitHub Repository: [IGELsociety/CHR2024-book-reviews-workshop](https://github.co
 
 ### Session 0: Introduction
 
-Facilitators: Berenike Herrmann, Federico Pianzola, Yuerong Hu    
+Facilitators: Berenike Herrmann, Federico Pianzola, Yuerong Hu<br>  
 **Topic**:<br> 
 Computational reader response studies with a multilingual perspective and learning objectives of the workshop.
 
@@ -52,14 +52,14 @@ Facilitators: Simone Rebora, Peter Boot, Katja Tereshko, Yuerong Hu<br>
 
 ### Session 2: Textual Feature Extraction: with computational methods on books and reviews in different languages
 
-Facilitators: Yuri Bizzonis, Kristoffer Nielbo, Joris van Zundert, Katja Tereshko, Berenike Herrmann    
+Facilitators: Yuri Bizzonis, Kristoffer Nielbo, Joris van Zundert, Katja Tereshko, Berenike Herrmann<br>    
 **Topics**:<br> 
 - Using NLP tools to extract features of reader response.
 - Using rule-based NLP (ImpFic heuristic model) to identify impact statements in reviews.
 
 ### Session 3: Hypotheses Testing
 
-Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo, Federico Pianzola    
+Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo, Federico Pianzola<br>    
 **Topics**:<br> 
 - Hypotheses Formulation: Correlation of the textual features and reader response (in terms of genre, style, language, platform, etc.).
 - Using Machine Learning to predict reception based on textual features.
