@@ -47,8 +47,8 @@ Computational reader response studies with a multilingual perspective and learni
 
 Facilitators: Simone Rebora, Peter Boot, Katja Tereshko, Yuerong Hu<br>  
 **Topics**:<br> 
-- Inter-annotator agreement.
-- Discussion on the Annotation scheme.
+- Inter-annotator agreement.-
+- Discussion on the Annotation scheme.-
 
 ### Session 2: Textual Feature Extraction: with computational methods on books and reviews in different languages
 
