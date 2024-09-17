@@ -39,26 +39,26 @@ GitHub Repository: [IGELsociety/CHR2024-book-reviews-workshop](https://github.co
 
 ### Session 0: Introduction
 
-Facilitators: Berenike Herrmann, Federico Pianzola, Yuerong Hu  
+Facilitators: Berenike Herrmann, Federico Pianzola, Yuerong Hu    
 **Topic**: Computational reader response studies with a multilingual perspective and learning objectives of the workshop.
 
 ### Session 1: Annotation
 
-Facilitators: Simone Rebora, Peter Boot, Katja Tereshko, Yuerong Hu
+Facilitators: Simone Rebora, Peter Boot, Katja Tereshko, Yuerong Hu  
 **Topics**:
 - Inter-annotator agreement.
 - Discussion on the Annotation scheme.
 
 ### Session 2: Textual Feature Extraction: with computational methods on books and reviews in different languages
 
-Facilitators: Yuri Bizzonis, Kristoffer Nielbo, Joris van Zundert, Katja Tereshko, Berenike Herrmann  
+Facilitators: Yuri Bizzonis, Kristoffer Nielbo, Joris van Zundert, Katja Tereshko, Berenike Herrmann    
 **Topics**:
 - Using NLP tools to extract features of reader response.
 - Using rule-based NLP (ImpFic heuristic model) to identify impact statements in reviews.
 
 ### Session 3: Hypotheses Testing
 
-Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo, Federico Pianzola  
+Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo, Federico Pianzola    
 **Topics**:
 - Hypotheses Formulation: Correlation of the textual features and reader response (in terms of genre, style, language, platform, etc.).
 - Using Machine Learning to predict reception based on textual features.
@@ -66,7 +66,7 @@ Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo
 
 ### Session 4: Reflection
 
-Facilitator: Federico Pianzola
+Facilitator: Federico Pianzola  
 **Topic**: Discussion of the aptness of computational methods and the methodological choices to study reader response.
 
 ## Quick Start Guide
