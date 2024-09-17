@@ -25,7 +25,7 @@
     "href": "index.html#tutorial-content",
     "title": "Computational Analysis of Multilingual Book Reviews",
     "section": "Tutorial Content",
-    "text": "Tutorial Content\n\n0: Packages and Data. Some instructions on the packages and data sets used in the workshop. It would be handy to read this before the workshop starts!\n1: Hello Arrow. The first session of the workshop provides an overview of the Apache Arrow project and gives participants their first hands on experience working with data using Arrow.\n2: Data Wrangling. The second session is a deep dive into the analyzing large data sets using arrow, dplyr, and to a lesser extent duckdb. This is the longest session of the workshop.\n3: Data Storage. The third session looks in detail the read/write capabilities of arrow. It discusses the parquet file format, how to use it effectively for large data sets, and how to partition large data sets across many files.\n4: Advanced Arrow. The final session is brief, and takes a look under the hood. It talks about the data structures and data types used in Arrow."
+    "text": "Tutorial Content"
   },
   {
     "objectID": "index.html#quick-start-guide",
