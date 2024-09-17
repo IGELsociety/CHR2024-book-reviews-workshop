@@ -37,11 +37,32 @@ GitHub Repository: [IGELsociety/CHR2024-book-reviews-workshop](https://github.co
 
 ## Tutorial Content
 
-- [0: Packages and Data](packages-and-data.html). Some instructions on the packages and data sets used in the workshop. It would be handy to read this before the workshop starts!
-- [1: Hello Arrow](hello-arrow.html). The first session of the workshop provides an overview of the Apache Arrow project and gives participants their first hands on experience working with data using Arrow. 
-- [2: Data Wrangling](data-wrangling.html). The second session is a deep dive into the analyzing large data sets using **arrow**, **dplyr**, and to a lesser extent **duckdb**. This is the longest session of the workshop.
-- [3: Data Storage](data-storage.html). The third session looks in detail the read/write capabilities of **arrow**. It discusses the parquet file format, how to use it effectively for large data sets, and how to partition large data sets across many files.
-- [4: Advanced Arrow](advanced.html). The final session is brief, and takes a look under the hood. It talks about the data structures and data types used in Arrow.
+# Session 0: Introduction
+Facilitators: **Berenike Herrmann**, **Federico Pianzola**, **Yuerong Hu**  
+Topic: Computational reader response studies with a multilingual perspective and learning objectives of the workshop.
+
+# Session 1: Annotation
+Facilitators: **Simone Rebora**, **Peter Boot**, **Katja Tereshko**, **Yuerong Hu**  
+Topics:
+- Inter-annotator agreement.
+- Discussion on the Annotation scheme.
+
+# Session 2: Textual Feature Extraction: with computational methods on books and reviews in different languages
+Facilitators: **Yuri Bizzonis**, **Kristoffer Nielbo**, **Joris van Zundert**, **Katja Tereshko**, **Berenike Herrmann**  
+Topics:
+- Using NLP tools to extract features of reader response.
+- Using rule-based NLP (ImpFic heuristic model) to identify impact statements in reviews.
+
+# Session 3: Hypotheses Testing
+Facilitators: **Joris van Zundert**, **Katja Tereshko**, **Yuri Bizzoni**, **Kristoffer Nielbo**, **Federico Pianzola**  
+Topics:
+- Hypotheses Formulation: Correlation of the textual features and reader response (in terms of genre, style, language, platform, etc.).
+- Using Machine Learning to predict reception based on textual features.
+- Hands-on experience with mixed-effect models and interpretation.
+
+# Session 4: Reflection
+Facilitator: **Federico Pianzola**  
+Topic: Discussion of the aptness of computational methods and the methodological choices to study reader response.
 
 ## Quick Start Guide
 
