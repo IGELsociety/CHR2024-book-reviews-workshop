@@ -92,7 +92,7 @@ add info about the setup (Google Colab)
 
 Time zone: Europe/Copenhagen 
 
-  2024-12-03 09:00 - 17:00
+  2024-12-03 09:00 - 17:30
   
 CHR 2024
 
