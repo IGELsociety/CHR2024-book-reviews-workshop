@@ -86,7 +86,7 @@ Discussion of the aptness of computational methods and the methodological choice
 
 ## Quick Start Guide
 
-add info about the setup (Google Colab)
+The notebook will be updated before the workshop (Google Colab)
 
 ## When/Where
 
