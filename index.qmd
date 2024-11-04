@@ -48,17 +48,21 @@ GitHub Repository: [IGELsociety/CHR2024-book-reviews-workshop](https://github.co
 
 - [**Yuerong Hu**](https://ischool.illinois.edu/people/yuerong-hu) - is an assistant professor at the Department of Information and Library Science of the Luddy School of Informatics, Computing, and Engineering, at Indiana University Bloomington. Her primary research areas are digital humanities and cultural analytics. Specifically, she investigates (1) critical scholarly usage of digitized books; and (2) complexities of online book reviews. Her work has been published in journals such as the International Journal on Digital Libraries, College and Research Libraries, and Information Development, as well as conferences including CHR, ADHO annual conference, ACM/IEEE JCDL, and iConference.
 
+## Coordinator
+
+- [**Ze Yu**](https://zeyu-acad.github.io/) - is an Ph.D Candidate at the Department of Center for Language and Cognition (CLCG), University of Groningen. 
+
 ## Tutorial Content
 
-### Session 0: Introduction
+### Session 0: Introduction & Annotation (part 1)
 
-Facilitators: Berenike Herrmann, Federico Pianzola, Yuerong Hu<br>
+Facilitators: Berenike Herrmann, Federico Pianzola, Yuerong Hu, Simone Rebora<br>
 **Topic**:<br> 
 Computational reader response studies with a multilingual perspective and learning objectives of the workshop.
 
-### Session 1: Annotation
+### Session 1: Annotation (part 2)
 
-Facilitators: Simone Rebora, Peter Boot, Katja Tereshko, Yuerong Hu<br>
+Facilitators: Simone Rebora, Peter Boot, Katja Tereshko<br>
 **Topics**:<br> 
 - Inter-annotator agreement.  
 - Discussion on the Annotation scheme.
@@ -72,15 +76,14 @@ Facilitators: Yuri Bizzonis, Kristoffer Nielbo, Joris van Zundert, Katja Tereshk
 
 ### Session 3: Hypotheses Testing
 
-Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo, Federico Pianzola<br>
+Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo<br>
 **Topics**:<br> 
-- Hypotheses Formulation: Correlation of the textual features and reader response (in terms of genre, style, language, platform, etc.).  
+- Hypotheses Formulation: Correlation of the textual features and reader response (in terms of genre, style, language, platform, etc.). 
 - Using Machine Learning to predict reception based on textual features.  
-- Hands-on experience with mixed-effect models and interpretation.
 
 ### Session 4: Reflection
 
-Facilitator: Federico Pianzola<br>
+Facilitator: Simone Rebora, Katja Tereshko<br>
 **Topic**:<br> 
 Discussion of the aptness of computational methods and the methodological choices to study reader response.
 
@@ -92,7 +95,7 @@ The notebook will be updated before the workshop (Google Colab)
 
 Time zone: Europe/Copenhagen 
 
-  2024-12-03 09:00 - 17:30
+  2024-12-03 09:00 - 17:00
   
 CHR 2024
 
