@@ -59,7 +59,7 @@ GitHub Repository: [IGELsociety/CHR2024-book-reviews-workshop](https://github.co
 Facilitators: Berenike Herrmann, Federico Pianzola, Yuerong Hu, Simone Rebora<br>
 **Topic**:<br> 
 - Computational reader response studies with a multilingual perspective and learning objectives of the workshop.  
-- Annotation exercise  
+- Annotation exercise.  
 
 ### Session 1: Annotation (part 2)
 
@@ -79,7 +79,7 @@ Facilitators: Yuri Bizzonis, Kristoffer Nielbo, Joris van Zundert, Katja Tereshk
 
 Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo<br>
 **Topics**:<br> 
-- Hypotheses Formulation: Correlation of the textual features and reader response (in terms of genre, style, language, platform, etc.). 
+- Hypotheses Formulation: Correlation of the textual features and reader response (in terms of genre, style, language, platform, etc.).  
 - Using Machine Learning to predict reception based on textual features.  
 
 ### Session 4: Reflection
