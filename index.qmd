@@ -58,7 +58,7 @@ GitHub Repository: [IGELsociety/CHR2024-book-reviews-workshop](https://github.co
 
 Facilitators: Berenike Herrmann, Federico Pianzola, Yuerong Hu, Simone Rebora<br>
 **Topic**:<br> 
-- Computational reader response studies with a multilingual perspective and learning objectives of the workshop.
+- Computational reader response studies with a multilingual perspective and learning objectives of the workshop.  
 - Annotation exercise  
 
 ### Session 1: Annotation (part 2)
