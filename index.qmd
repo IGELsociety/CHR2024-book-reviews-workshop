@@ -55,8 +55,7 @@ GitHub Repository: [IGELsociety/CHR2024-book-reviews-workshop](https://github.co
 ## Tutorial Content
 
 9:00 - 10:30  
-### Session 0: Introduction & Annotation (part 1)
-
+### Session 0: Introduction & Annotation (part 1)  
 Facilitators: Berenike Herrmann, Federico Pianzola, Yuerong Hu, Simone Rebora<br>
 **Topic**:<br> 
 - Computational reader response studies with a multilingual perspective and learning objectives of the workshop.  
@@ -79,7 +78,7 @@ Facilitators: Yuri Bizzonis, Kristoffer Nielbo, Joris van Zundert, Katja Tereshk
 - Using rule-based NLP (ImpFic heuristic model) to identify impact statements in reviews.
 
 14:50 - 15:50  
-### Session 3: Hypotheses Testing
+###Session 3: Hypotheses Testing
 
 Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo<br>
 **Topics**:<br> 
