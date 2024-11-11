@@ -82,7 +82,7 @@ Facilitators: Yuri Bizzonis, Kristoffer Nielbo, Joris van Zundert, Katja Tereshk
 
 **14:50 - 15:50**  
 
-###Session 3: Hypotheses Testing
+### Session 3: Hypotheses Testing
 
 Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo<br>
 **Topics**:<br> 
