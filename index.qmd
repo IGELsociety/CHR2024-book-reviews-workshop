@@ -55,6 +55,7 @@ GitHub Repository: [IGELsociety/CHR2024-book-reviews-workshop](https://github.co
 ## Tutorial Content
 
 9:00 - 10:30  
+
 ### Session 0: Introduction & Annotation (part 1)  
 Facilitators: Berenike Herrmann, Federico Pianzola, Yuerong Hu, Simone Rebora<br>
 **Topic**:<br> 
@@ -62,6 +63,7 @@ Facilitators: Berenike Herrmann, Federico Pianzola, Yuerong Hu, Simone Rebora<br
 - Annotation exercise.  
 
 11:00 - 12:00  
+
 ### Session 1: Annotation (part 2)
 
 Facilitators: Simone Rebora, Peter Boot, Katja Tereshko<br>
@@ -70,6 +72,7 @@ Facilitators: Simone Rebora, Peter Boot, Katja Tereshko<br>
 - Discussion on the Annotation scheme.
 
 13:00 - 14:30  
+
 ### Session 2: Textual Feature Extraction: with computational methods on books and reviews in different languages
 
 Facilitators: Yuri Bizzonis, Kristoffer Nielbo, Joris van Zundert, Katja Tereshko, Berenike Herrmann<br>
@@ -78,6 +81,7 @@ Facilitators: Yuri Bizzonis, Kristoffer Nielbo, Joris van Zundert, Katja Tereshk
 - Using rule-based NLP (ImpFic heuristic model) to identify impact statements in reviews.
 
 14:50 - 15:50  
+
 ###Session 3: Hypotheses Testing
 
 Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo<br>
@@ -86,6 +90,7 @@ Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo
 - Using Machine Learning to predict reception based on textual features.  
 
 16:30 - 17:00  
+
 ### Session 4: Reflection
 
 Facilitator: Simone Rebora, Katja Tereshko<br>
