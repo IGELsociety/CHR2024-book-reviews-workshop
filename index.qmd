@@ -54,33 +54,33 @@ GitHub Repository: [IGELsociety/CHR2024-book-reviews-workshop](https://github.co
 
 ## Tutorial Content
 
-9:00 - 10:30  
+**9:00 - 10:30**  
 
 ### Session 0: Introduction & Annotation (part 1)  
 Facilitators: Berenike Herrmann, Federico Pianzola, Yuerong Hu, Simone Rebora<br>
 **Topic**:<br> 
 - Computational reader response studies with a multilingual perspective and learning objectives of the workshop.  
-- Annotation exercise.  
+- Annotation exercise.   
 
-11:00 - 12:00  
+**11:00 - 12:00**  
 
 ### Session 1: Annotation (part 2)
 
 Facilitators: Simone Rebora, Peter Boot, Katja Tereshko<br>
 **Topics**:<br> 
 - Inter-annotator agreement.  
-- Discussion on the Annotation scheme.
+- Discussion on the Annotation scheme.  
 
-13:00 - 14:30  
+**13:00 - 14:30**  
 
 ### Session 2: Textual Feature Extraction: with computational methods on books and reviews in different languages
 
 Facilitators: Yuri Bizzonis, Kristoffer Nielbo, Joris van Zundert, Katja Tereshko, Berenike Herrmann<br>
 **Topics**:<br> 
 - Using NLP tools to extract features of reader response.  
-- Using rule-based NLP (ImpFic heuristic model) to identify impact statements in reviews.
+- Using rule-based NLP (ImpFic heuristic model) to identify impact statements in reviews.  
 
-14:50 - 15:50  
+**14:50 - 15:50**  
 
 ###Session 3: Hypotheses Testing
 
@@ -89,13 +89,13 @@ Facilitators: Joris van Zundert, Katja Tereshko, Yuri Bizzoni, Kristoffer Nielbo
 - Hypotheses Formulation: Correlation of the textual features and reader response (in terms of genre, style, language, platform, etc.).  
 - Using Machine Learning to predict reception based on textual features.  
 
-16:30 - 17:00  
+**16:30 - 17:00**  
 
 ### Session 4: Reflection
 
 Facilitator: Simone Rebora, Katja Tereshko<br>
 **Topic**:<br> 
-Discussion of the aptness of computational methods and the methodological choices to study reader response.
+Discussion of the aptness of computational methods and the methodological choices to study reader response.  
 
 ## Learning Materials
 
