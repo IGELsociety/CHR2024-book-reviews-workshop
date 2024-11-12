@@ -48,6 +48,8 @@ GitHub Repository: [IGELsociety/CHR2024-book-reviews-workshop](https://github.co
 
 - [**Yuerong Hu**](https://ischool.illinois.edu/people/yuerong-hu) - is an assistant professor at the Department of Information and Library Science of the Luddy School of Informatics, Computing, and Engineering, at Indiana University Bloomington. Her primary research areas are digital humanities and cultural analytics. Specifically, she investigates (1) critical scholarly usage of digitized books; and (2) complexities of online book reviews. Her work has been published in journals such as the International Journal on Digital Libraries, College and Research Libraries, and Information Development, as well as conferences including CHR, ADHO annual conference, ACM/IEEE JCDL, and iConference.
 
+- [**Peter Boot**](https://www.huygens.knaw.nl/medewerkers/peter-boot/) - is a senior researcher at the Huygens Institute for the History of the Netherlands. He studied mathematics and Dutch literature and wrote a thesis about electronic annotation in digital editions. He works as a consultant on digital scholarly edition projects. His research focusses on online repertoire formation. His publications include Mesotext. Digitised Emblems, Modelled Annotations and Humanities Scholarship (2009), as well as articles about emblem books, emblem digitisation, digital editing, online book discussion and online writing communities.
+
 ## Coordinator
 
 - [**Ze Yu**](https://zeyu-acad.github.io/) - is a Ph.D Candidate at the Department of Center for Language and Cognition (CLCG), University of Groningen. Her main research focus is Reader Response, Digital Social Reading and Comparative Culture Studies.
