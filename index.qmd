@@ -107,10 +107,13 @@ The notebook will be updated before the workshop (Google Colab)
 
 Time zone: Europe/Copenhagen 
 
-  2024-12-03 09:00 - 17:00
+  2024-12-03 09:00 - 17:00  
+
+Hejmdal Møde- og Konferencehus
+Peter Sabroes Gade 1, 8000 Aarhus, Denmark
   
 CHR 2024
 
 FIFTH CONFERENCE ON COMPUTATIONAL HUMANITIES RESEARCH
 
-Aarhus University, Denmark
+
