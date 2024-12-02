@@ -101,7 +101,7 @@ Discussion of the aptness of computational methods and the methodological choice
 
 ## Learning Materials
 
-The notebook and other materials can be found here (https://drive.google.com/drive/folders/1aysKncuG1WRT07jLXLVLmAw2_KyFEDLf?usp=sharing).
+The notebook and other materials can be found [**here**](https://drive.google.com/drive/folders/1aysKncuG1WRT07jLXLVLmAw2_KyFEDLf?usp=sharing).
 
 ## When/Where
 
